@@ -39,6 +39,7 @@ function CollapsibleExample() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" style={{justifyContent: 'center', width: '70%'}}>
         <Nav style={{justifyContent: 'center', width: '100%'}} >
+
         <Form style={{width: '70%'}}>
             <Form.Control
               type="search"
